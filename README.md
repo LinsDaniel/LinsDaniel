@@ -10,26 +10,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado e
 
 ### 🤝 Vamos nos conectar?
 <p align="left">
-  <a href="https://www.linkedin.com/in/daniel-lins-19bb72221/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/5581982124698" target="_blank">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40" alt="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/l1ns_daniel/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
-  </a>
-  <a href="mailto:linsdaniel77@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
+  <a href="https://www.linkedin.com/in/daniel-lins-19bb72221/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a><a href="https://wa.me/5581982124698" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40" alt="WhatsApp" /></a><a href="https://www.instagram.com/l1ns_daniel/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a><a href="mailto:linsdaniel77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
 </p>
 
 ---
 
 ### 🛠️ No que estou focado:
 * **Desenvolvimento Web:** Aplicações modernas focadas na experiência do usuário.
-* **Automação:** Scripts inteligentes para otimização de fluxos.
-* **Infraestrutura:** Gestão de redes e modelagem de dados.
+* **Automação:** Scripts inteligentes para otimização de fluxos e processos.
+* **Infraestrutura:** Gestão de redes e modelagem de dados para suporte à decisão.
 
 ---
 
