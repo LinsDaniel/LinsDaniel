@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em **Gestã
 
 ---
 
-### 🛠️ No que eu atuo:
+### 🛠️ Atuação Academica/Profissional:
 * **Suporte e Infraestrutura:** Realizo instalação, configuração e manutenção de sistemas operacionais (Windows e Linux), além de suporte técnico em hardware e redes.
 * **Gestão de Tecnologia:** Organizo fluxos, processos e documentação de TI para facilitar a comunicação entre equipes e padronizar informações.
 * **Dados e Desenvolvimento:** Estruturo bancos de dados em SQL e possuo conhecimentos em Python, JavaScript, HTML5 e CSS3.
