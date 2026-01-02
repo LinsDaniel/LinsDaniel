@@ -12,13 +12,36 @@
 
 </div>
 
-# Olá, bem-vindo ao meu espaço! 👋
+# Oi, Bem Vindo ao meu espaço! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado em converter requisitos complexos em aplicações funcionais e infraestruturas resilientes.
+Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? Eu estudo **Análise e Desenvolvimento de Sistemas** justamente para construir essa ponte. Meu foco não é apenas escrever código, mas garantir que a infraestrutura seja sólida e que os dados tragam respostas inteligentes para decisões reais.
 
 ---
 
-### 🤝 Vamos nos conectar?
+### 🛠️ No que coloco minha energia:
+* **Gestão e Governança de TI:** Mais do que organizar processos, busco garantir que a tecnologia seja um braço estratégico do negócio, cuidando da conformidade e da eficiência de ponta a ponta.
+* **Inovação com IA e Dados:** Sou fascinado por transformar dados brutos em caminhos claros. Uso IA para automatizar o que é repetitivo e focar no que realmente importa: resultados inteligentes.
+* **Infraestrutura com Propósito:** Atuo na manutenção e otimização de sistemas e redes, sempre com o olhar atento para evitar problemas antes que eles aconteçam e manter tudo rodando sem gargalos.
+
+---
+
+### 🚀 Minha caixa de ferramentas:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,github,vscode,windows,linux,office&theme=dark" />
+</p>
+
+---
+
+### 🌐 Idiomas & Comunicação
+| Idioma | Nível | O que consigo fazer |
+| :--- | :--- | :--- |
+| **Português** | Nativo | Comunicação completa para apresentações, documentação e liderança. |
+| **Inglês** | Intermediário | Consigo participar de conversas, escrever e consumir documentação técnica com facilidade. |
+| **Espanhol** | Básico | Compreensão de textos e diálogos simples do cotidiano. |
+
+---
+
+### 🤝 Vamos bater um papo?
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-lins-19bb72221/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   <a href="https://wa.me/5581982124698" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40" alt="WhatsApp" /></a>
@@ -28,35 +51,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado e
 
 ---
 
-### 🛠️ No que estou focado:
-* **Gestão e Governança de TI:** Focado na organização de processos, gestão de ativos e conformidade, utilizando os fundamentos de ADS para garantir a eficiência operacional do ambiente tecnológico.
-* **Inovação com IA e Dados:** Aplicando Inteligência Artificial e análise de dados para automatizar decisões gerenciais, eliminar gargalos operacionais e elevar o nível de inteligência do negócio.
-* **Infraestrutura & Suporte Estratégico:** Manutenção preventiva e corretiva de sistemas e redes, com foco em alta disponibilidade e otimização de custos de infraestrutura.
-
----
-
-### 🚀 Tecnologias:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,github,vscode,windows,linux,office&theme=dark" />
-</p>
-
----
-
-### 🌐 Idiomas
-| Idioma | Nível | Descrição |
-| :--- | :--- | :--- |
-| **Português** | Nativo | Fluência completa para apresentações e documentação. |
-| **Inglês** | Intermediário | Boa capacidade de conversação, escrita e leitura técnica. |
-| **Espanhol** | Básico | Compreensão de textos simples e vocabulário inicial. |
-
----
-
-### 🐍 Snake Contribution:
+### 🐍 Minha evolução:
 <p align="center">
   <img src="https://raw.githubusercontent.com/LinsDaniel/LinsDaniel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LinsDaniel&label=Visitas%20ao%20Perfil&color=00d2ff&style=flat-square" />
