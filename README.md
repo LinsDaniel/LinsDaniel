@@ -1,6 +1,16 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="Header" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:00bbff,100:0099ff&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=100&color=00D9FF&center=true&vCenter=true&width=800&lines=%3E_+Transforming+data+into+strategic+decisions...;%3E_+Building+resilient+infrastructures...;%3E_+Optimizing+technological+operations...)](https://git.io/typing-svg)
+
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-00d9ff?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Ops](https://img.shields.io/badge/Data%20Ops-0099ff?style=for-the-badge&logo=databricks&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-00bbff?style=for-the-badge&logo=amazonsaws&logoColor=white)
+![Cloud Tech](https://img.shields.io/badge/Cloud%20Tech-00d9ff?style=for-the-badge&logo=icloud&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-0099ff?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
 
 # Olá, bem-vindo ao meu espaço! 👋
 
@@ -48,4 +58,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado e
 
 ---
 
-<p align="cente
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LinsDaniel&label=Visitas%20ao%20Perfil&color=00d2ff&style=flat-square" />
+</p>
