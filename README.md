@@ -4,25 +4,32 @@
 
 # Olá, bem-vindo ao meu espaço! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**. Busco unir organização e tecnologia para criar soluções eficientes e processos bem estruturados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado em converter requisitos complexos em aplicações funcionais e infraestruturas resilientes.
 
 ---
 
 ### 🤝 Vamos nos conectar?
 <p align="left">
-<a href="https://www.linkedin.com/in/daniel-lins-19bb72221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://wa.me/5581982124698" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="https://www.instagram.com/l1ns_daniel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:linsdaniel77@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-lins-19bb72221/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5581982124698" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" height="40" alt="WhatsApp" />
+  </a>
+  <a href="https://www.instagram.com/l1ns_daniel/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  <a href="mailto:linsdaniel77@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 ### 🛠️ No que estou focado:
-* **Inovação e IA:** Automação e produtividade.
-* **Infraestrutura:** Suporte técnico e redes.
-* **Governança:** Processos e documentação.
-* **Dados:** SQL, Python e JavaScript.
+* **Desenvolvimento Web:** Aplicações modernas focadas na experiência do usuário.
+* **Automação:** Scripts inteligentes para otimização de fluxos.
+* **Infraestrutura:** Gestão de redes e modelagem de dados.
 
 ---
 
@@ -40,10 +47,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**. Busco unir organiza
 
 ---
 
-### 📊 Minhas Estatísticas:
+### 📊 Estatísticas Futuristas:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinsDaniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinsDaniel&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinsDaniel&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=e1e1e1&border_color=00d2ff&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinsDaniel&layout=compact&langs_count=7&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=e1e1e1&border_color=00d2ff&locale=pt-br" />
 </p>
 
 ---
