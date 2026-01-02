@@ -16,9 +16,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado e
 ---
 
 ### 🛠️ No que estou focado:
-* **Desenvolvimento Web:** Aplicações modernas focadas na experiência do usuário.
-* **Automação:** Scripts inteligentes para otimização de fluxos e processos.
-* **Infraestrutura:** Gestão de redes e modelagem de dados para suporte à decisão.
+* **Gestão e Governança de TI:** Focado na organização de processos, gestão de ativos e conformidade, utilizando os fundamentos de ADS para garantir a eficiência operacional do ambiente tecnológico.
+* **Inovação com IA e Dados:** Aplicando Inteligência Artificial e análise de dados para automatizar decisões gerenciais, eliminar gargalos operacionais e elevar continuamente o nível dos resultados para projetos.
+* **Infraestrutura & Suporte Estratégico:** Manutenção preventiva e corretiva de sistemas e redes, com foco em alta disponibilidade e otimização de custos de infraestrutura.
 
 ---
 
@@ -29,17 +29,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**. Atualmente focado e
 
 ---
 
-### 🐍 Snake Contribution:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LinsDaniel/LinsDaniel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+### 🌐 Idiomas
+| Idioma | Nível |
+| :--- | :--- |
+| **Português** | Nativo |
+| **Inglês** | Técnico / Intermediário |
+| **Espanhol** | Básico |
 
 ---
 
-### 📊 Estatísticas Futuristas:
+### 🐍 Snake Contribution:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LinsDaniel&show_icons=true&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=e1e1e1&border_color=00d2ff&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinsDaniel&layout=compact&langs_count=7&theme=transparent&title_color=00d2ff&icon_color=00d2ff&text_color=e1e1e1&border_color=00d2ff&locale=pt-br" />
+  <img src="https://raw.githubusercontent.com/LinsDaniel/LinsDaniel/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
