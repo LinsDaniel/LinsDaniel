@@ -6,13 +6,13 @@
 
 ![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-00d9ff?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Ops](https://img.shields.io/badge/Data%20Ops-0099ff?style=for-the-badge&logo=databricks&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-00bbff?style=for-the-badge&logo=amazonsaws&logoColor=white)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-00bbff?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Cloud Tech](https://img.shields.io/badge/Cloud%20Tech-00d9ff?style=for-the-badge&logo=icloud&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-0099ff?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
-# Oi, Bem Vindo ao meu espaço! 👋
+# Oi, Bem-vindo ao meu espaço! 👋
 
 Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? Eu estudo **Análise e Desenvolvimento de Sistemas** justamente para construir essa ponte. Meu foco não é apenas escrever código, mas garantir que a infraestrutura seja sólida e que os dados tragam respostas inteligentes para decisões reais.
 
