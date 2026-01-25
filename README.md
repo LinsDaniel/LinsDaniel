@@ -53,7 +53,7 @@ Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? 
 
 ### 🐍 Minha evolução:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com//LinsDaniel//LinsDaniel/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
