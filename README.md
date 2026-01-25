@@ -14,15 +14,15 @@
 
 # Oi, Bem-vindo ao meu espaço! 👋
 
-Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? Eu estudo **Análise e Desenvolvimento de Sistemas** justamente para construir essa ponte. Meu foco não é apenas escrever código, mas garantir que a infraestrutura seja sólida e que os dados tragam respostas inteligentes para decisões reais.
+Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? Como Analista de TI, eu foco em reduzir o abismo entre as necessidades de negócio e a entrega tecnológica... justamente para construir essa ponte. Meu foco não é apenas escrever código, mas garantir que a infraestrutura seja sólida e que os dados tragam respostas inteligentes para decisões reais.
 
 ---
 
 ### 🛠️ No que coloco minha energia:
-* **Gestão e Governança de TI:** Mais do que organizar processos, busco garantir que a tecnologia seja um braço estratégico do negócio, cuidando da conformidade e da eficiência de ponta a ponta.
-* **Inovação com IA e Dados:** Sou fascinado por transformar dados brutos em caminhos claros. Uso IA para automatizar o que é repetitivo e focar no que realmente importa: resultados inteligentes.
-* **Infraestrutura com Propósito:** Atuo na manutenção e otimização de sistemas e redes, sempre com o olhar atento para evitar problemas antes que eles aconteçam e manter tudo rodando sem gargalos.
-
+* **Infraestrutura e Resiliência:** Focado na implementação, manutenção e otimização de sistemas e redes. Atuo de forma proativa para garantir 99.9% de disponibilidade, antecipando gargalos e garantindo que a base tecnológica da empresa seja sólida e escalável.
+* **Inovação e AIOps:** Aplico Inteligência Artificial para automatizar rotinas de TI, monitoramento de sistemas e análise de logs. Transformo tarefas manuais e repetitivas em processos autônomos e inteligentes.
+* **Suporte e Troubleshooting:** Gosto de quebrar a cabeça e resolver problemas complexos. Minha abordagem une o conhecimento técnico profundo com uma visão analítica para diagnosticar falhas rapidamente e restaurar a continuidade do negócio.
+* **Monitoramento e Gestão de Ativos:** Busco implementar sistemas de monitoramento em tempo real, para acompanhar a saúde de servidores e dispositivos de rede. Meu foco é a qualidade: identificar o problema antes que o usuário perceba e garantir a gestão inteligente dos recursos.
 ---
 
 ### 🚀 Minha caixa de ferramentas:
@@ -41,6 +41,13 @@ Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? 
 
 ---
 
+### 🐍 Minha evolução:
+<p align="center">
+  <img src="https://raw.githubusercontent.com//LinsDaniel//LinsDaniel/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🤝 Vamos bater um papo?
 <p align="left">
   <a href="https://www.linkedin.com/in/daniel-lins-19bb72221/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
@@ -49,13 +56,8 @@ Sabe aquele abismo entre o que o negócio precisa e o que a tecnologia entrega? 
   <a href="mailto:linsdaniel77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
 </p>
 
----
-
-### 🐍 Minha evolução:
-<p align="center">
-  <img src="https://raw.githubusercontent.com//LinsDaniel//LinsDaniel/output/snake.svg" alt="Snake animation" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LinsDaniel&label=Visitas%20ao%20Perfil&color=00d2ff&style=flat-square" />
 </p>
+
+
